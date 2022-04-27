@@ -19,7 +19,6 @@
 # box-shadow
 # text-shadow
 # textColorAnimation
-# rotate_image
 # border-radius
 # input
 # hover
